@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ich bin ein von Repo2 geänderter Text1.
+=======
+ich bin ein von Repo1 geänderter Text1.
+>>>>>>> 0b207f986030abcc099f2c32eb3d8241f9aef8bf
